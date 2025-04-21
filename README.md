@@ -20,11 +20,6 @@ Clean and prepare a raw dataset by handling missing values, duplicates, inconsis
 - Renamed column headers (e.g., lowercase, no spaces)
 - Fixed data types (e.g., age to int, date to datetime)
 
-### Files Included:
-- `data_cleaning.ipynb` – Code for cleaning the dataset
-- `cleaned_data.csv` – Final cleaned dataset
-- `screenshot_before_after.png` – Optional screenshot of data cleaning
-- `README.md` – Summary of the task
 
 ### Dataset:
 [Customer Personality Analysis / Netflix Dataset / etc.]
